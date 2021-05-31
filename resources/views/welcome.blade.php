@@ -93,7 +93,7 @@
                 <ul>
                   <li><i class="bi bi-chevron-right"></i> <strong>Full Name:</strong> <span>Ani, Precious .E.</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>28th, April 1999</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.preshdev.com</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.preshdev.heroku.com</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+234 8176 157 244</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Enugu State, Nigeria</span></li>
                 </ul>
