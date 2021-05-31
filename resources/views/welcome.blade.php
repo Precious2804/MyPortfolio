@@ -226,7 +226,7 @@
               <ul>
                 <li>Enugu, Nigeria</li>
                 <li>(123) 456-7891</li>
-                <li>www.preshdev.com</li>
+                <li>www.preshdev.heroku.com</li>
               </ul>
             </div>
 
