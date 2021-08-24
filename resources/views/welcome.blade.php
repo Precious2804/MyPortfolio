@@ -289,7 +289,7 @@
         <div>
           <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
 
-            <div class="col-lg-6 col-md-6 portfolio-item filter-app">
+            <div class="col-lg-4 col-md-4 portfolio-item filter-app">
               <div class="portfolio-wrap">
                 <img src="assets/img/portfolio/buxiscrow.png" class="img-fluid" alt="Buxiscrow" width="100%">
               </div>
@@ -299,7 +299,7 @@
               </div>
 
             </div>
-            <div class="col-lg-6 col-md-6 portfolio-item filter-app">
+            <div class="col-lg-4 col-md-4 portfolio-item filter-app">
               <div class="portfolio-wrap">
                 <img src="assets/img/portfolio/buxipay.png" class="img-fluid" alt="Buxipay" width="100%">
               </div>
@@ -309,7 +309,7 @@
               </div>
 
             </div>
-            <div class="col-lg-6 col-md-6 portfolio-item filter-app">
+            <div class="col-lg-4 col-md-4 portfolio-item filter-app">
               <div class="portfolio-wrap">
                 <img src="assets/img/portfolio/Constropal_logo.png" class="img-fluid" alt="Constropal" width="100%">
               </div>
