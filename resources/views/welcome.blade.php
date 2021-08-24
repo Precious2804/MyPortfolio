@@ -283,7 +283,7 @@
 
         <div class="section-title">
           <h2>Portfolio</h2>
-          <p>Here are some of my Developments, basically as the member of a Team </p>
+          <p>Here are some of my Developments</p>
         </div>
 
         <div>
