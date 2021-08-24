@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -66,7 +65,7 @@
         <a href="https://twitter.com/presh_dev" class="twitter"><i class="bx bxl-twitter"></i></a>
         <a href="https://web.facebook.com/ani.precious.923/" class="facebook"><i class="bx bxl-facebook"></i></a>
         <a href="https://www.linkedin.com/in/precious-ebuka-aa4718180/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-        </div>
+      </div>
     </div>
   </section><!-- End Hero -->
 
@@ -113,7 +112,7 @@
     </section><!-- End About Section -->
 
     <!-- ======= Facts Section ======= -->
-    
+
     <!-- ======= Skills Section ======= -->
     <section id="skills" class="skills section-bg">
       <div class="container" data-aos="fade-up">
@@ -124,9 +123,7 @@
         </div>
 
         <div class="row skills-content">
-
           <div class="col-lg-6">
-
             <div class="progress">
               <span class="skill">HTML <i class="val">100%</i></span>
               <div class="progress-bar-wrap">
@@ -140,69 +137,84 @@
                 <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
+          </div>
+
+          <div class="col-lg-6">
             <div class="progress">
-              <span class="skill">BOOTSTRAP <i class="val">80%</i></span>
+              <span class="skill">BOOTSTRAP <i class="val">90%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
-
             <div class="progress">
-              <span class="skill">PHP <i class="val">85%</i></span>
+              <span class="skill">TAILWIND CSS <i class="val">55%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
+          </div>
 
+          <div class="col-lg-8">
+            <div class="progress">
+              <span class="skill">LARAVEL <i class="val">90%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+            <div class="progress">
+              <span class="skill">PHP <i class="val">90%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-6">
             <div class="progress">
               <span class="skill">JavaScript <i class="val">75%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
-
+            <div class="progress">
+              <span class="skill">VUE JS <i class="val">75%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
           </div>
 
           <div class="col-lg-6">
-
-          <div class="progress">
-              <span class="skill">LARAVEL <i class="val">80%</i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-
-              <div class="progress">
+            <div class="progress">
               <span class="skill">MYSQL <i class="val">85%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
             <div class="progress">
               <span class="skill">Flutter <i class="val">50%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
+          </div>
 
+          <div class="col-lg-6">
             <div class="progress">
               <span class="skill">WordPress/CMS <i class="val">80%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
             <div class="progress">
               <span class="skill">Java <i class="val">60%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
-              
-
           </div>
-
         </div>
 
       </div>
@@ -238,7 +250,7 @@
               <p><em>Second class Upper Degree</em></p>
             </div>
           </div>
-            
+
           <div class="col-lg-6">
             <h3 class="resume-title">Professional Experience</h3>
             <div class="resume-item">
@@ -248,7 +260,7 @@
               <ul>
                 <li>Led in the design, development, and implementation of the software (web/mobile) applications, for the organization. </li>
                 <li>Delegate tasks to the members of the development team and provide supervision on all aspects of the project. </li>
-                  <li>Worked on the development of and depolyment of an escrow system <a href="www.buxiscrow.com">Buxiscrow</a> </li>
+                <li>Worked on the development of and depolyment of an escrow system <a href="www.buxiscrow.com">Buxiscrow</a> </li>
               </ul>
             </div>
             <div class="resume-item">
@@ -275,34 +287,44 @@
         </div>
 
         <div>
-            <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
-                
-             <div class="col-lg-6 col-md-6 portfolio-item filter-app">
-                <div class="portfolio-wrap">
-                    <img src="assets/img/portfolio/buxiscrow.png" class="img-fluid" alt="">
-              </div>
-                 <div>
-                     <a href="https://buxiscrow.com/">Click to view Buxiscrow</a>
-                     <p>World premier digital escrow service provider for ensuring safe and secure digital commerce transactions such as peer-peer and marketplaces.Secure online payment processing from the world’s largest online escrow service. Many businesses in the Africa use Buxiscrow to collect payments with a modern, secure payment gateway.</p>
-                 </div>
+          <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
 
-                </div>
             <div class="col-lg-6 col-md-6 portfolio-item filter-app">
-                <div class="portfolio-wrap">
-                    <img src="assets/img/portfolio/buxipay.png" class="img-fluid" alt="">
+              <div class="portfolio-wrap">
+                <img src="assets/img/portfolio/buxiscrow.png" class="img-fluid" alt="Buxiscrow" width="100%">
               </div>
-                 <div>
-                     <a href="https://buxipay.com/">Click to view Buxipay</a>
-                     <p>World's premier digital payment service provider for ensuring safe and secure digital commerce transactions such as peer-peer and marketplaces.Secure online payment processing from the world’s largest online payment service.Over 6,000 businesses in the World use Buxipay to collect payments with a modern, secure payment gateway</p>
-                 </div>
+              <div>
+                <a href="https://buxiscrow.com/">Go to Site</a>
+                <p>World premier digital escrow service provider for ensuring safe and secure digital commerce transactions such as peer-peer and marketplaces.Secure online payment processing from the world’s largest online escrow service. Many businesses in the Africa use Buxiscrow to collect payments with a modern, secure payment gateway.</p>
+              </div>
 
-                </div>
             </div>
+            <div class="col-lg-6 col-md-6 portfolio-item filter-app">
+              <div class="portfolio-wrap">
+                <img src="assets/img/portfolio/buxipay.png" class="img-fluid" alt="Buxipay" width="100%">
+              </div>
+              <div>
+                <a href="https://buxipay.com/">Go to Site</a>
+                <p>World's premier digital payment service provider for ensuring safe and secure digital commerce transactions such as peer-peer and marketplaces.Secure online payment processing from the world’s largest online payment service.Over 6,000 businesses in the World use Buxipay to collect payments with a modern, secure payment gateway</p>
+              </div>
 
-                
             </div>
+            <div class="col-lg-6 col-md-6 portfolio-item filter-app">
+              <div class="portfolio-wrap">
+                <img src="assets/img/portfolio/Constropal_logo.png" class="img-fluid" alt="Constropal" width="100%">
+              </div>
+              <div>
+                <a href="https://constropal.com/">Go to Site</a>
+                <p>ConstroPal is a Construction management Mobile Application, built with Flutter at the front-end and Laravel at the back-end, that functions at helping Construction Companies, managers, clients, workers etc, in the construction indusrty, to organize and cordinate the process as it concerns erecting a building</p>
+              </div>
+
+            </div>
+          </div>
+
 
         </div>
+
+      </div>
     </section><!-- End Portfolio Section -->
 
     <!-- ======= Services Section ======= -->
@@ -358,9 +380,9 @@
         </div>
 
       </div>
-    </section><!-- End Services Section --> 
-      
-      <section id="contact" class="contact">
+    </section><!-- End Services Section -->
+
+    <section id="contact" class="contact">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
@@ -396,17 +418,17 @@
           <div class="col-lg-8 mt-5 mt-lg-0">
 
             <form action="{{ route('/contact') }}" method="POST" class="form-group">
-            @if (Session::get('success'))
-            <div class="alert alert-succes">
+              @if (Session::get('success'))
+              <div class="alert alert-succes">
                 {{Session::get('success')}}
-            </div>
-            @endif
-            @if (Session::get('fail'))
-            <div class="alert alert-succes">
+              </div>
+              @endif
+              @if (Session::get('fail'))
+              <div class="alert alert-succes">
                 {{Session::get('fail')}}
-            </div>
-            @endif
-            @csrf
+              </div>
+              @endif
+              @csrf
               <div class="row">
                 <div class="col-md-6 form-group">
                   <input type="text" name="name" class="form-control" id="name" placeholder="Your Name">
