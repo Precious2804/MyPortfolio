@@ -462,10 +462,10 @@
       <h3>Precious Ani</h3>
       <p>If you are in dire need of someone that would make you love tech products and someone that would handle your project effieciently, then you have met the right plug, i'm just a Phone call or a Text away from you, Just the needful now!</p>
       <div class="social-links">
-        <a href="https://twitter.com/presh_dev" class="twitter"><i class="bx bxl-twitter"></i></a>
-        <a href="https://web.facebook.com/ani.precious.923/" class="facebook"><i class="bx bxl-facebook"></i></a>
-        <a href="https://www.linkedin.com/in/precious-ebuka-aa4718180/" class="linkedin"><i class="bx bxl-liznkedin"></i></a>
-        <a href="https://github.com/Precious2804" class="github"><i class="bx bxl-github"></i></a>
+        <a href="https://twitter.com/presh_dev" target="_blank" class="twitter"><i class="bx bxl-twitter"></i></a>
+        <a href="https://web.facebook.com/ani.precious.923/" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
+        <a href="https://www.linkedin.com/in/precious-ebuka-aa4718180/" target="_blank" class="linkedin"><i class="bx bxl-liznkedin"></i></a>
+        <a href="https://github.com/Precious2804" target="_blank" class="github"><i class="bx bxl-github"></i></a>
       </div>
       <div class="copyright">
         &copy; Copyright <strong><span>Presh_dev</span></strong>. All Rights Reserved
