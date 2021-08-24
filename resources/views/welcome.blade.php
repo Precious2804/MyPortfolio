@@ -291,7 +291,7 @@
 
             <div class="col-lg-4 col-md-4 portfolio-item filter-app">
               <div class="portfolio-wrap">
-                <img src="assets/img/portfolio/buxiscrow.png" class="img-fluid" alt="Buxiscrow" height="100px" width="100%">
+                <img src="assets/img/portfolio/buxiscrow.png" class="img-fluid" alt="Buxiscrow" width="100%">
               </div>
               <div>
                 <a href="https://buxiscrow.com/">Go to Site</a>
@@ -301,7 +301,7 @@
             </div>
             <div class="col-lg-4 col-md-4 portfolio-item filter-app">
               <div class="portfolio-wrap">
-                <img src="assets/img/portfolio/buxipay.png" class="img-fluid" alt="Buxipay" height="100px" width="100%">
+                <img src="assets/img/portfolio/buxipay.png" class="img-fluid" alt="Buxipay" width="100%">
               </div>
               <div>
                 <a href="https://buxipay.com/">Go to Site</a>
@@ -311,7 +311,7 @@
             </div>
             <div class="col-lg-4 col-md-4 portfolio-item filter-app">
               <div class="portfolio-wrap">
-                <img src="assets/img/Constropal_logo.png" class="img-fluid" alt="Constropal" height="100px" width="100%">
+                <img src="assets/img/Constropal_logo.png" class="img-fluid" alt="Constropal" width="100%">
               </div>
               <div>
                 <a href="https://constropal.com/">Go to Site</a>
