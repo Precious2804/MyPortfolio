@@ -92,7 +92,7 @@
                 <ul>
                   <li><i class="bi bi-chevron-right"></i> <strong>Full Name:</strong> <span>Ani, Precious .E.</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>28th, April 1999</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.preshdev.heroku.com</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span><a href="https://preshdev.herokuapp.com/">www.preshdev.heroku.com</a></span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+234 8176 157 244</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Enugu State, Nigeria</span></li>
                 </ul>
@@ -102,6 +102,7 @@
                   <li><i class="bi bi-chevron-right"></i> <strong>Highest Degree:</strong> <span>Bachelors</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>anipreciousebuka@gmail.com</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Git Hub:</strong> <a href="https://github.com/Precious2804">https://github.com/Precious2804</a></li>
                 </ul>
               </div>
             </div>
@@ -463,7 +464,8 @@
       <div class="social-links">
         <a href="https://twitter.com/presh_dev" class="twitter"><i class="bx bxl-twitter"></i></a>
         <a href="https://web.facebook.com/ani.precious.923/" class="facebook"><i class="bx bxl-facebook"></i></a>
-        <a href="https://www.linkedin.com/in/precious-ebuka-aa4718180/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+        <a href="https://www.linkedin.com/in/precious-ebuka-aa4718180/" class="linkedin"><i class="bx bxl-liznkedin"></i></a>
+        <a href="https://github.com/Precious2804" class="github"><i class="bx bxl-github"></i></a>
       </div>
       <div class="copyright">
         &copy; Copyright <strong><span>Presh_dev</span></strong>. All Rights Reserved
