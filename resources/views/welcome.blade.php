@@ -154,7 +154,7 @@
             </div>
           </div>
 
-          <div class="col-lg-8">
+          <div class="col-lg-6">
             <div class="progress">
               <span class="skill">LARAVEL <i class="val">90%</i></span>
               <div class="progress-bar-wrap">
@@ -311,7 +311,7 @@
             </div>
             <div class="col-lg-4 col-md-4 portfolio-item filter-app">
               <div class="portfolio-wrap">
-                <img src="assets/img/portfolio/Constropal_logo.png" class="img-fluid" alt="Constropal" width="100%">
+                <img src="assets/img/Constropal_logo.png" class="img-fluid" alt="Constropal" width="100%">
               </div>
               <div>
                 <a href="https://constropal.com/">Go to Site</a>
