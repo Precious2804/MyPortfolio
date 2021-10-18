@@ -315,7 +315,7 @@
                 <img src="assets/img/Constropal_logo.png" class="img-fluid" alt="Constropal" width="100%">
               </div>
               <div>
-                <a href="https://constropal.com/">Go to Site</a>
+                <a href="https://constropal.herokuapp.com/">Go to Site</a>
                 <p>ConstroPal is a Construction management Mobile Application, built with Flutter at the front-end and Laravel at the back-end, that functions at helping Construction Companies, managers, clients, workers etc, in the construction indusrty, to organize and cordinate the process as it concerns erecting a building</p>
               </div>
 
