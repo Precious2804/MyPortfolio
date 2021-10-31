@@ -257,7 +257,7 @@
             <div class="resume-item">
               <h4>Chief Technical Officer</h4>
               <h5>2018 - Present</h5>
-              <p><em>MeritInfo Enterprise</em></p>
+              <p><em>MeritInfo LLC</em></p>
               <ul>
                 <li>Led in the design, development, and implementation of the software (web/mobile) applications, for the organization. </li>
                 <li>Delegate tasks to the members of the development team and provide supervision on all aspects of the project. </li>
@@ -265,11 +265,19 @@
               </ul>
             </div>
             <div class="resume-item">
-              <h4>Computer Tutor at Hephizibah Computer Academy</h4>
-              <h5>2015 - 2017</h5>
-              <p><em>Hephzibah Computer Academy</em></p>
+              <h4>Web Design/Development Tutor</h4>
+              <h5>2021 - Till date</h5>
+              <p><em>TechoCraft ICT Academy</em></p>
               <ul>
-                <li>Tutoring and Mentoring Computer Students</li>
+                <li>Tutoring and developing new generation Web Developers</li>
+              </ul>
+            </div>
+            <div class="resume-item">
+              <h4>Freelancer</h4>
+              <h5>2016 - Till date</h5>
+              <p><em>Freelancing Communities</em></p>
+              <ul>
+                <li>Work as a freelancer for different variety of problem solving ideas and technicalities</li>
               </ul>
             </div>
           </div>
