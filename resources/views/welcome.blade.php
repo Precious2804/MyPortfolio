@@ -326,7 +326,7 @@
             </div>
             <div class="col-lg-4 portfolio-item filter-app">
               <div class="portfolio-wrap">
-                <img src="assets/img/Constropal_logo.png" class="img-fluid" alt="Constropal" width="100%">
+                <img src="assets/img/invitation_white.png" class="img-fluid" alt="Constropal" width="100%">
               </div>
               <div>
                 <a href="https://cardsandevents.com/" target="_blank">Visit Cards & Events</a>
