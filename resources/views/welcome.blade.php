@@ -297,8 +297,7 @@
 
         <div>
           <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
-
-            <div class="col-lg-4 col-md-4 portfolio-item filter-app">
+            <div class="col-lg-4 portfolio-item filter-app">
               <div class="portfolio-wrap">
                 <img src="assets/img/portfolio/buxiscrow.png" class="img-fluid" alt="Buxiscrow" width="100%">
               </div>
@@ -306,9 +305,8 @@
                 <a href="https://buxiscrow.com/" target="_blank">Visit Buxiscrow</a>
                 <p>World premier digital escrow service provider for ensuring safe and secure digital commerce transactions such as peer-peer and marketplaces.Secure online payment processing from the world’s largest online escrow service. Many businesses in the Africa use Buxiscrow to collect payments with a modern, secure payment gateway.</p>
               </div>
-
             </div>
-            <div class="col-lg-4 col-md-4 portfolio-item filter-app">
+            <div class="col-lg-4 portfolio-item filter-app">
               <div class="portfolio-wrap">
                 <img src="assets/img/portfolio/buxipay.png" class="img-fluid" alt="Buxipay" width="100%">
               </div>
@@ -316,9 +314,8 @@
                 <a href="https://buxipay.com/" target="_blank">Visit Buxipay</a>
                 <p>World's premier digital payment service provider for ensuring safe and secure digital commerce transactions such as peer-peer and marketplaces.Secure online payment processing from the world’s largest online payment service.Over 6,000 businesses in the World use Buxipay to collect payments with a modern, secure payment gateway</p>
               </div>
-
             </div>
-            <div class="col-lg-4 col-md-4 portfolio-item filter-app">
+            <div class="col-lg-4 portfolio-item filter-app">
               <div class="portfolio-wrap">
                 <img src="assets/img/Constropal_logo.png" class="img-fluid" alt="Constropal" width="100%">
               </div>
@@ -326,13 +323,18 @@
                 <a href="https://constropal.com/" target="_blank">Visit Constropal</a>
                 <p>ConstroPal is a Construction management Mobile Application, built with Flutter at the front-end and Laravel at the back-end, that functions at helping Construction Companies, managers, clients, workers etc, in the construction indusrty, to organize and cordinate the process as it concerns erecting a building</p>
               </div>
-
+            </div>
+            <div class="col-lg-4 portfolio-item filter-app">
+              <div class="portfolio-wrap">
+                <img src="assets/img/Constropal_logo.png" class="img-fluid" alt="Constropal" width="100%">
+              </div>
+              <div>
+                <a href="https://cardsandevents.com/" target="_blank">Visit Cards & Events</a>
+                <p>Cards and Events is an advance digital technology, that aims at bringing the world together via the internet space, and solving problems that has been caused by non-digital invitation processes. At Cards and Events we see ourselves as a part of your amazing journey and likewise fun-time with family, friends and Loved ones.</p>
+              </div>
             </div>
           </div>
-
-
         </div>
-
       </div>
     </section><!-- End Portfolio Section -->
 
