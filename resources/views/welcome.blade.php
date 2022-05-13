@@ -371,7 +371,7 @@
               </div>
             </div>
             <div class="col-lg-4 portfolio-item filter-app">
-              <a href="https://buxipay.com/" target="_blank">
+              <a href="https://nextropay.com/" target="_blank">
                 <div class="portfolio-wrap">
                   <img src="assets/img/nextropay.png" class="img-fluid" alt="Nextropay">
                 </div>
@@ -382,7 +382,7 @@
               </div>
             </div>
             <div class="col-lg-4 portfolio-item filter-app">
-              <a href="https://copybee-app.herokuapp.com/login/" target="_blank">
+              <a href="https://copybee.io/" target="_blank">
                 <div class="portfolio-wrap">
                   <img src="assets/img/copybee.svg" class="img-fluid" alt="CopyBee">
                 </div>
