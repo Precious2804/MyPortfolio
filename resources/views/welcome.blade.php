@@ -326,17 +326,6 @@
         <div>
           <div class="row" data-aos="fade-up" data-aos-delay="200">
             <div class="col-lg-4 portfolio-item filter-app">
-              <a href="https://kwik-video-app.herokuapp.com/login" target="_blank">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/kwikVideo.svg" class="img-fluid" alt="KwikVideo">
-                </div>
-              </a>
-              <div>
-                <h5 class="text-primary">KwikVideo</h5>
-                <p>World premier digital escrow service provider for ensuring safe and secure digital commerce transactions such as peer-peer and marketplaces.Secure online payment processing from the world’s largest online escrow service. Many businesses in the Africa use Buxiscrow to collect payments with a modern, secure payment gateway.</p>
-              </div>
-            </div>
-            <div class="col-lg-4 portfolio-item filter-app">
               <a href="https://oxymon.co/" target="_blank">
                 <div class="portfolio-wrap">
                   <img src="assets/img/oxymon.png" class="img-fluid" alt="Oxymon">
@@ -348,6 +337,17 @@
               </div>
             </div>
             <div class="col-lg-4 portfolio-item filter-app">
+              <a href="https://constropal.com/" target="_blank">
+                <div class="portfolio-wrap">
+                  <img src="assets/img/Constropal_logo.png" class="img-fluid" alt="Constropal">
+                </div>
+              </a>
+              <div>
+                <h5 class="text-primary">ConstroPal</h5>
+                <p>ConstroPal is a Construction management Mobile Application, built with Flutter at the front-end and Laravel at the back-end, that functions at helping Construction Companies, managers, clients, workers etc, in the construction indusrty, to organize and cordinate the process as it concerns erecting a building</p>
+              </div>
+            </div>
+            <div class="col-lg-4 portfolio-item filter-app">
               <a href="https://buxiscrow.com/" target="_blank">
                 <div class="portfolio-wrap">
                   <img src="assets/img/portfolio/buxiscrow.png" class="img-fluid" alt="Buxiscrow">
@@ -356,6 +356,17 @@
               <div>
                 <h5 class="text-primary">Buxiscrow</h5>
                 <p>World premier digital escrow service provider for ensuring safe and secure digital commerce transactions such as peer-peer and marketplaces.Secure online payment processing from the world’s largest online escrow service. Many businesses in the Africa use Buxiscrow to collect payments with a modern, secure payment gateway.</p>
+              </div>
+            </div>
+            <div class="col-lg-4 portfolio-item filter-app">
+              <a href="https://copybee.io/" target="_blank">
+                <div class="portfolio-wrap">
+                  <img src="assets/img/copybee.svg" class="img-fluid" alt="CopyBee">
+                </div>
+              </a>
+              <div>
+                <h5 class="text-primary">CopyBee</h5>
+                <p>CopyBee is a AI copy writer that writes anything for you in seconds, better than a human.</p>
               </div>
             </div>
             <div class="col-lg-4 portfolio-item filter-app">
@@ -382,14 +393,14 @@
               </div>
             </div>
             <div class="col-lg-4 portfolio-item filter-app">
-              <a href="https://copybee.io/" target="_blank">
+              <a href="https://kwik-video-app.herokuapp.com/login" target="_blank">
                 <div class="portfolio-wrap">
-                  <img src="assets/img/copybee.svg" class="img-fluid" alt="CopyBee">
+                  <img src="assets/img/kwikVideo.svg" class="img-fluid" alt="KwikVideo">
                 </div>
               </a>
               <div>
-                <h5 class="text-primary">CopyBee</h5>
-                <p>CopyBee is a AI copy writer that writes anything for you in seconds, better than a human.</p>
+                <h5 class="text-primary">KwikVideo</h5>
+                <p>World premier digital escrow service provider for ensuring safe and secure digital commerce transactions such as peer-peer and marketplaces.Secure online payment processing from the world’s largest online escrow service. Many businesses in the Africa use Buxiscrow to collect payments with a modern, secure payment gateway.</p>
               </div>
             </div>
             <div class="col-lg-4 portfolio-item filter-app">
@@ -403,17 +414,6 @@
                 <p>EasyVtu is a Virtual Top Up application, that helps you make payments
                   for services you enjoy right from the comfort of your home or office. Which helps to ensure that payments for day-to-day services are
                   stress-free and fun</p>
-              </div>
-            </div>
-            <div class="col-lg-4 portfolio-item filter-app">
-              <a href="https://constropal.com/" target="_blank">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/Constropal_logo.png" class="img-fluid" alt="Constropal">
-                </div>
-              </a>
-              <div>
-                <h5 class="text-primary">ConstroPal</h5>
-                <p>ConstroPal is a Construction management Mobile Application, built with Flutter at the front-end and Laravel at the back-end, that functions at helping Construction Companies, managers, clients, workers etc, in the construction indusrty, to organize and cordinate the process as it concerns erecting a building</p>
               </div>
             </div>
             <div class="col-lg-4 portfolio-item filter-app">
