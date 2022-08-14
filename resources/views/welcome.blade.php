@@ -35,11 +35,27 @@
     .portfolio-wrap {
       cursor: pointer;
       padding: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
     }
 
     .portfolio-wrap img {
-      width: 100%;
+      width: 95%;
       height: 130px;
+    }
+
+    .resume-item {
+      margin-bottom: 3rem;
+    }
+
+    .resume-item p {
+      font-weight: bolder;
+    }
+
+    .portfolio-item div h5 {
+      font-weight: bolder;
+      margin-top: 15px;
     }
   </style>
 </head>
@@ -69,7 +85,7 @@
   <section id="hero" class="d-flex flex-column justify-content-center">
     <div class="container" data-aos="zoom-in" data-aos-delay="100">
       <h1>Precious Ani</h1>
-      <p>I'm a <span class="typed" data-typed-items="Software Engineer(Full-Stack), Heavy Backend Developer, Frontend Developer"></span></p>
+      <p>I'm a <span class="typed" data-typed-items="Software Engineer(Full-Stack), Heavy Backend Engineer, Frontend Engineer"></span></p>
       <div class="social-links">
         <a href="https://twitter.com/presh_dev" class="twitter"><i class="bx bxl-twitter"></i></a>
         <a href="https://web.facebook.com/ani.precious.923/" class="facebook"><i class="bx bxl-facebook"></i></a>
@@ -86,7 +102,7 @@
 
         <div class="section-title">
           <h2>About Me</h2>
-          <p>My name is Precious Ani, I am Full Stack Web Developer, with vast experiences in PHP(Php Frameworks), JAVASCRIPT(Js Frameworks). I have strong work and learning ethics, which aids the efficiency of my work output, that would definately be useful for You at all times.</p>
+          <p>My name is Precious Ani, I am Full Stack Software Engineer, with vast experiences in PHP(Php Frameworks), JAVASCRIPT(Js Frameworks). I have strong work and learning ethics, which aids the efficiency of my work output, that would definately be useful for You at all times.</p>
         </div>
 
         <div class="row">
@@ -99,7 +115,7 @@
             <div class="row">
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Full Name:</strong> <span>Ani, Precious .E.</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Full Name:</strong> <span>Precious Ani .E.</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>28th, April</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span><a href="{{route('/')}}">{{route('/')}}</a></span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span><a href="tel:+234 8176 157 244">+234 8176 157 244</a></span></li>
@@ -109,9 +125,9 @@
               </div>
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Highest Degree:</strong> <span>Bachelor of Science</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Highest Degree:</strong> <span>Bachelor of Science, UNN</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span><a href="mailto:anipreciousebuka@gmail.com">anipreciousebuka@gmail.com</a></span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Git Hub:</strong> <a href="https://github.com/Precious2804">https://github.com/Precious2804</a></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>GitHub:</strong> <a href="https://github.com/Precious2804">https://github.com/Precious2804</a></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Linkedin:</strong> <a href="https://www.linkedin.com/in/precious-ebuka-aa4718180/">https://www.linkedin.com/in/precious-ebuka-aa4718180/</a></li>
                 </ul>
               </div>
@@ -135,25 +151,25 @@
         <div class="row skills-content">
           <div class="col-lg-6">
             <div class="progress">
-              <span class="skill">HTML <i class="val">100%</i></span>
+              <span class="skill">HTML <i class="val">95%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">CSS <i class="val">90%</i></span>
+              <span class="skill">CSS <i class="val">85%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
           </div>
 
           <div class="col-lg-6">
             <div class="progress">
-              <span class="skill">BOOTSTRAP <i class="val">90%</i></span>
+              <span class="skill">BOOTSTRAP <i class="val">80%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
             <div class="progress">
@@ -187,7 +203,7 @@
               </div>
             </div>
             <div class="progress">
-              <span class="skill">VUE JS <i class="val">75%</i></span>
+              <span class="skill">NEXT JS <i class="val">75%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
@@ -244,14 +260,15 @@
             <h3 class="resume-title">Summary</h3>
             <div class="resume-item pb-0">
               <h4>Precious Ani</h4>
-              <p><em>An Innovative and Efficiency-Driven Web Developer with 5+ years of experience in designing and developing Real-life Website Applicatiosn to solve Real-life problems.</em></p>
+              <p style="font-weight: normal;"><em>An Innovative and Efficiency-Driven Web Developer with 5+ years of experience in designing and developing Real-life Website Applicatiosn to solve Real-life problems.</em></p>
               <ul>
                 <li>Lagos, Nigeria</li>
                 <li><a href="tel:+234 8176-157-244">(234) 8176-157-244</a></li>
                 <li><a href="{{route('/')}}">{{route('/')}}</a></li>
               </ul>
             </div>
-
+          </div>
+          <div class="col-lg-6">
             <h3 class="resume-title">Education</h3>
             <div class="resume-item">
               <h4>Bachelor's Degree in Computer Science</h4>
@@ -260,58 +277,68 @@
               <p><em>Second class Upper Degree</em></p>
             </div>
           </div>
-
+        </div>
+        <br>
+        <br>
+        <div class="row">
+          <h3 class="resume-title">Professional Experience</h3>
           <div class="col-lg-6">
-            <h3 class="resume-title">Professional Experience</h3>
+            <div class="resume-item">
+              <h4>Backend Engineer</h4>
+              <h5>2022 July - Present</h5>
+              <p><em>Afrihealth Tech Solutions</em></p>
+              <ul>
+                <li>Reviewed code, debugged problems and corrected issues</li>
+                <li>Working on building REST API's using Laravel</li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-lg-6">
             <div class="resume-item">
               <h4>Full Stack Software Engineer</h4>
-              <h5>2022 - Present</h5>
+              <h5>2022 Jan - 2022 July</h5>
               <p><em>BLuecodeTech</em></p>
               <ul>
                 <li>Worked on the front and back end development for various SaaS tools</li>
                 <li>Implemented figma designs on the front and manage states with Redux</li>
               </ul>
             </div>
+          </div>
+          <div class="col-lg-6">
             <div class="resume-item">
-              <h4>Full Stack Engineer</h4>
-              <h5>2022 - Present</h5>
+              <h4>Software Engineer</h4>
+              <h5>2022 Feb - 2022, July</h5>
               <p><em>Oxymon LTD</em></p>
               <ul>
                 <li>Working on a fintech application that provides financial power to individuals</li>
-                <li>Worked on the Backend for the mobile application</li>
-                <li>Currently working as Technical support on the Web and Mobile application</li>
-              </ul>
-            </div>
-            <div class="resume-item">
-              <h4>Chief Technical Officer</h4>
-              <h5>2018 - 2022</h5>
-              <p><em>MeritInfo LLC</em></p>
-              <ul>
-                <li>Led in the design, development, and implementation of the software (web/mobile) applications, for the organization. </li>
-                <li>Delegate tasks to the members of the development team and provide supervision on all aspects of the project. </li>
-                <li>Worked on the development of and depolyment of an escrow system <a href="www.buxiscrow.com">Buxiscrow</a> </li>
-              </ul>
-            </div>
-            <div class="resume-item">
-              <h4>Web Design/Development Tutor</h4>
-              <h5>2021 - 2022</h5>
-              <p><em>TechoCraft ICT Academy</em></p>
-              <ul>
-                <li>Tutoring and developing new generation Web Developers</li>
-              </ul>
-            </div>
-            <div class="resume-item">
-              <h4>Freelancer</h4>
-              <h5>2016 - Till date</h5>
-              <p><em>Freelancing Communities</em></p>
-              <ul>
-                <li>Work as a freelancer for different variety of problem solving ideas and technicalities</li>
+                <li>Worked as a Technical support Engineer for the web application</li>
               </ul>
             </div>
           </div>
-        </div>
+          <div class="col-lg-6">
+            <div class="resume-item">
+              <h4>Backend Engineer</h4>
+              <h5>2019 Sept - 2021 Dec</h5>
+              <p><em>MeritInfo LLC</em></p>
+              <ul>
+                <li>Led in the design, development, and implementation of the software (web/mobile) applications, for the organization. </li>
+                <li>Worked on the development of and depolyment of an escrow system <a href="www.buxiscrow.com">Buxiscrow</a> </li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <div class="resume-item">
+              <h4>Web Design/Development Tutor</h4>
+              <h5>2021 Jan - 2021 Dec</h5>
+              <p><em>TechoCraft ICT Academy</em></p>
+              <ul>
+                <li>Team member in the development of an online learning platform, where students and tutors can buy and sell online courses</li>
+                <li>Tutoring and developing new generation Web Developers</li>
+              </ul>
+            </div>
+          </div>
 
-      </div>
+        </div>
     </section><!-- End Resume Section -->
 
     <!-- ======= Portfolio Section ======= -->
@@ -332,8 +359,19 @@
                 </div>
               </a>
               <div>
-                <h5 class="text-primary">Oxymon</h5>
+                <h5 class="text-primary"><a href="https://oxymon.co/" target="_blank">Oxymon</a></h5>
                 <p>A FinTech web application that aims at giving Financial Power to everyone, with personalized financial solutions which are easily accessible and interesting to use.</p>
+              </div>
+            </div>
+            <div class="col-lg-4 portfolio-item filter-app">
+              <a href="https://copybee.io/" target="_blank">
+                <div class="portfolio-wrap">
+                  <img src="assets/img/copybee.svg" class="img-fluid" alt="CopyBee">
+                </div>
+              </a>
+              <div>
+                <h5 class="text-primary"><a href="http://copybee.io/" target="_blank"> CopyBee </a></h5>
+                <p>CopyBee is a AI copy writer that writes anything for you in seconds, better than a human.</p>
               </div>
             </div>
             <div class="col-lg-4 portfolio-item filter-app">
@@ -343,7 +381,7 @@
                 </div>
               </a>
               <div>
-                <h5 class="text-primary">ConstroPal</h5>
+                <h5 class="text-primary"><a href="" target="_blank">ConstroPal</a></h5>
                 <p>ConstroPal is a Construction management Mobile Application, built with Flutter at the front-end and Laravel at the back-end, that functions at helping Construction Companies, managers, clients, workers etc, in the construction indusrty, to organize and cordinate the process as it concerns erecting a building</p>
               </div>
             </div>
@@ -354,31 +392,19 @@
                 </div>
               </a>
               <div>
-                <h5 class="text-primary">Buxiscrow</h5>
+                <h5 class="text-primary"><a href="http://buxiscrow.com/" target="_blank">Buxiscrow</a></h5>
                 <p>World premier digital escrow service provider for ensuring safe and secure digital commerce transactions such as peer-peer and marketplaces.Secure online payment processing from the world’s largest online escrow service. Many businesses in the Africa use Buxiscrow to collect payments with a modern, secure payment gateway.</p>
               </div>
             </div>
             <div class="col-lg-4 portfolio-item filter-app">
-              <a href="https://copybee.io/" target="_blank">
+              <a href="https://bluecodetech.co/" target="_blank">
                 <div class="portfolio-wrap">
-                  <img src="assets/img/copybee.svg" class="img-fluid" alt="CopyBee">
+                  <img src="assets/img/bluecode.svg" class="img-fluid" alt="CopyBee">
                 </div>
               </a>
               <div>
-                <h5 class="text-primary">CopyBee</h5>
-                <p>CopyBee is a AI copy writer that writes anything for you in seconds, better than a human.</p>
-              </div>
-            </div>
-            <div class="col-lg-4 portfolio-item filter-app">
-              <a href="https://livesnapp.co/" target="_blank">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/livesnap.svg" class="img-fluid" alt="LiveSnap">
-                </div>
-              </a>
-              <div>
-                <h5 class="text-primary">LiveSnap</h5>
-                <p>Livestream and host pre-recorded videos on any social networks.
-                  Go live simultaneously across more than 20 social media platforms whether your pre-recorded or you are going live.</p>
+                <h5 class="text-primary"><a href="https://bluecodetech.co/" target="_blank"> BLuecodeTech Website </a></h5>
+                <p>The official website for BluecodeTech LLC, a company that offers her clients a wealth of software and business expertise. We create diverse, complex, web and mobile solutions for any business need.</p>
               </div>
             </div>
             <div class="col-lg-4 portfolio-item filter-app">
@@ -417,7 +443,7 @@
               </div>
             </div>
             <div class="col-lg-4 portfolio-item filter-app">
-              <a href="https://cardsandevents.com/" target="_blank">
+              <a href="https://github.com/Precious2804/Invitations" target="_blank">
                 <div class="portfolio-wrap">
                   <img src="assets/img/invitation_white.png" class="img-fluid" alt="Cards and Events">
                 </div>
